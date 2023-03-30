@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <occupation>Student</occupation>
+    <personal>
+        <name>Ed</name>
+        <surname>Richardson</surname>
+        <age>18</age>
+        <isMarried>false</isMarried>
+		<bodyTemperature>36.6</bodyTemperature>
+    </personal>
+    <favoriteSubject1>Geography</favoriteSubject1>
+    <favoriteSubject2>Math</favoriteSubject2>
+    <favoriteSubject3>English</favoriteSubject3>
+    <hardSkillsLevel>high</hardSkillsLevel>
+    <softSkillsLevel>middle</softSkillsLevel>
+    <grant>null</grant>
+    <hobby1>hiking</hobby1>
+    <hobby2>reading</hobby2>
+    <hobby3>sleeping</hobby3>
+    <hasPets>true</hasPets>
+    <friend1>
+        <name>Anna</name>
+        <surname>Klimt</surname>
+        <age>19</age>
+        <isMarried>false</isMarried>
+    </friend1>
+    <friend2>
+        <name>Tom</name>
+        <surname>Kuper</surname>
+        <age>25</age>
+        <isMarried>true</isMarried>
+    </friend2>
+</root>
+</xml>

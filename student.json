@@ -1,0 +1,38 @@
+{
+    "occupation": "student",
+    "personal": {
+        "name": "Ed",
+        "surname": "Richardson",
+        "age": 18,
+        "isMarried": false,
+		"bodyTemperature": 36.6
+    },
+    "favoriteSubjects": [
+        "Geography",
+        "Math",
+        "English"
+    ],
+    "hardSkillsLevel": "high",
+	"softSkillsLevel": "middle",
+    "grant": null,
+    "hobbies": [
+        "hiking",
+        "reading",
+		"sleeping"
+    ],
+    "hasPets": true,
+    "friends": [
+        {
+            "name": "Anna",
+            "surname": "Klimt",
+            "age": 19,
+            "isMarried": false
+        },
+        {
+            "name": "Tom",
+            "surname": "Kuper",
+            "age": 25,
+            "isMarried": true
+        }
+    ]
+}
